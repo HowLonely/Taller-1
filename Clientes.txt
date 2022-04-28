@@ -1,0 +1,4 @@
+Pablo,choripan123,13000,pablito123@gmail.com
+Myrko,123pn,7000,myrko123@gmail.com
+Benjamin,123poi,8000,benja123@gmail.com
+Camila,lv123,10000,cami123@gmail.com
